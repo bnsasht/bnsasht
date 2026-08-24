@@ -8,11 +8,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:5fa8d3&height=3&width=1000" alt="divider"/>
 
-<h3 align="center" style="color:#5FA8D3;">About Me</h3>
+<h3 align="center">About Me</h3>
 
-<p align="center" width="80%">
-I'm a web developer with a focus on building clean, functional interfaces using HTML, CSS, and JavaScript. I enjoy solving problems through code and I'm always working on improving my craft, whether that means picking up a new framework, refining my workflow, or building something from scratch. I care about writing code that's not just functional but easy to read and maintain.
-</p>
+<table align="center" width="80%">
+  <tr>
+    <td>
+      <p align="center">
+        I'm a web developer who enjoys turning ideas into clean, functional interfaces. My work is built on HTML, CSS, and JavaScript, with a focus on writing code that's easy to read and easy to maintain.
+      </p>
+      <p align="center">
+        ▹ Comfortable across the front-end stack, from layout to interactivity<br/>
+        ▹ Always looking to pick up new frameworks and sharpen my workflow<br/>
+        ▹ Enjoy problem-solving as much as building
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:5fa8d3&height=3&width=1000" alt="divider"/>
 
@@ -22,9 +33,10 @@ I'm a web developer with a focus on building clean, functional interfaces using 
   <a href="https://www.linkedin.com/in/binisha-shrestha-86488b424" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:binishasht.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5fa8d3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</p>
+
+<p align="center">
+  <b>Email:</b> binishasht.dev@gmail.com
 </p>
 
 <p align="center">
