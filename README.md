@@ -11,6 +11,10 @@ I'm a web developer with a focus on building clean, functional interfaces using 
 ### Connect
 
 <p align="center">
-  <a href="mailto:binishasht.dev@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/binisha-shrestha-86488b424" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:binishasht.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5fa8d3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
